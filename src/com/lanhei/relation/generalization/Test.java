@@ -2,11 +2,11 @@ package com.lanhei.relation.generalization;
 
 public class Test {
     public static void main(String[] args) {
-        Animal bird=new Bird();
-        Animal fish=new Fish();
+        Bird bird=new Bird();
+        Fish fish=new Fish();
         bird.eat();
-        ((Bird) bird).fly();
+        bird.fly();
         fish.eat();
-        ((Fish) fish).swim();
+        fish.swim();
     }
 }
