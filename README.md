@@ -18,7 +18,9 @@
 &emsp;也叫迪米特法则。不要和陌生人说话，即一个对象应对其他对象有尽可能少的了解。
 ### 四、常见设计模式
 ![image](https://github.com/lanhei/DesignPattern/blob/master/image/设计模式.jpg)
-### 五、备注说明
+### 五、文章推荐
+https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/设计模式.md
+### 六、备注说明
 #### 开发工具：
 * IntelliJ IDEA: 开发IDE
 * PowerDesigner: 建模工具
